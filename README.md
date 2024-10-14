@@ -1,3 +1,5 @@
+# About me
+
 Hi! I am Vitor Martins Gouvêa
 
 Personal Info:
@@ -6,13 +8,13 @@ Personal Info:
 
 - My main interests are Statistics and Mathematical Modelling, particulary applied to Model Development\Validation in Quantitative Finance
 
-- I am also interested in scientific computing and science animations
+- I am also interested in Scientific Computing, Science Animations, and other aspects of Quantitative Finance, such as Risk Management and Derivatives Pricing\Hedging
 
-- I am currently learning SQL, mySQL and TensorFlow and working on developing and backtesting quantitative trading strategies
+- I am currently learning SQL, mySQL and TensorFlow and working on developing and backtesting Quantitative Trading Strategies
 
 Coding Projects:
 
-- Scientific Computing and animations, specially numerical methods for solving ODE´s and PDE´s and numerical integration
+- Scientific Computing and Animations, specially Numerical mMethods for solving ODE´s and PDE´s and Numerical Integration
 
 
 
