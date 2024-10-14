@@ -14,7 +14,7 @@ Personal Info:
 
 Coding Projects:
 
-- Scientific Computing and Animations, specially Numerical mMethods for solving ODE´s and PDE´s and Numerical Integration
+- Scientific Computing and Animations, specially Numerical Methods for solving ODE´s and PDE´s and Numerical Integration
 
 
 
