@@ -10,7 +10,7 @@ Personal Info:
 
 - I am also interested in Scientific Computing, Science Animations, and other aspects of Quantitative Finance, such as Risk Management and Derivatives Pricing\Hedging
 
-- I am currently learning SQL, mySQL and TensorFlow and working on developing and backtesting Quantitative Trading Strategies
+- I am currently learning SQL, mySQL and TensorFlow and working on developing and backtesting Quantitative Trading Strategies, as well as pursuing my undergrad and, eventually, a masters in statistics.
 
 Coding Projects:
 
